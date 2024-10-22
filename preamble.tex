@@ -1,0 +1,62 @@
+\documentclass{article}
+
+% Поиск в документе
+\usepackage{cmap}
+
+\usepackage[dvips,xetex]{graphicx}
+\usepackage{ifpdf,mla}
+
+%%% Оформление страницы
+%\usepackage{extsizes}     % Возможность сделать 14-й шрифт
+\usepackage{geometry}     % Простой способ задавать поля
+\usepackage{setspace}     % Интерлиньяж
+\usepackage{enumitem}     % Настройка окружений itemize и enumerate
+
+%%% Русский язык
+\usepackage[default]{droidserif}
+\usepackage[defaultsans]{droidsans}
+
+%%% Содержаниие
+\usepackage{tocloft}
+\tocloftpagestyle{main}
+
+%%% Шаблонная информация для титульного листа
+\newcommand{\CourseName}{Chinese}
+\newcommand{\FullCourseNameFirstPart}{CHINESE LANGUAGE, A1}
+\newcommand{\SemesterNumber}{III}
+\newcommand{\LecturerInitials}{Селькова Анна Владимировна}
+\newcommand{\CourseDate}{Autumn 2024}
+\newcommand{\VKLink}{https://vk.com/tikl7}
+\newcommand{\GithubLink}{https://github.com/daniild71r/lectures_tex_club}
+
+%%% Гиперссылки
+\usepackage{hyperref}
+\usepackage[usenames,dvipsnames,svgnames,table,rgb]{xcolor}
+\hypersetup{
+	unicode=true,            % русские буквы в раздела PDF
+	colorlinks=true,       	 % Цветные ссылки вместо ссылок в рамках
+	linkcolor=black!15!blue, % Внутренние ссылки
+	citecolor=green,         % Ссылки на библиографию
+	filecolor=magenta,       % Ссылки на файлы
+	urlcolor=NavyBlue,       % Ссылки на URL
+}
+
+%%% Работа с таблицами
+\usepackage{array,tabularx,tabulary,booktabs} % Дополнительная работа с таблицами
+\usepackage{longtable}                        % Длинные таблицы
+\usepackage{multirow}                         % Слияние строк в таблице
+
+\geometry{top=50mm}    % Поля сверху страницы
+\geometry{bottom=10mm} % Поля снизу страницы
+\geometry{left=20mm}   % Поля слева страницы
+\geometry{right=20mm}  % Поля справа страницы
+
+%%% Колонтитулы
+\usepackage{titleps}
+\newpagestyle{main}{
+	\setheadrule{0.4pt}
+	\sethead{\CourseName}{}{\hyperlink{intro}{\;Back to contents}}
+	\setfootrule{0.4pt}                       
+	\setfoot{MIPT, \CourseDate}{}{\thepage} 
+}
+\pagestyle{main}  
