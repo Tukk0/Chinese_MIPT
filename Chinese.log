@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  25 OCT 2024 23:27
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  25 OCT 2024 23:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1027,8 +1027,15 @@ LaTeX Font Info:    Font shape `TU/DroidSerif(0)/b/n' will be
 Requested font "[DroidSerif-Bold.ttf]/OT:script=latn;language=dflt;mapping=tex-
 text;" at 12.0pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Bold.ttf
-) [3]
-(sections/Basics/Graphemes.tex
+File: images/strokes1.jpg Graphic file (type bmp)
+<images/strokes1.jpg>
+File: images/strokes2.jpg Graphic file (type bmp)
+<images/strokes2.jpg>
+) [3] [4]
+Overfull \vbox (13.20018pt too high) has occurred while \output is active []
+
+
+[5] (sections/Basics/Graphemes.tex
 LaTeX Font Info:    Font shape `TU/DroidSerif(0)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
 Requested font "[DroidSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=t
@@ -1036,7 +1043,7 @@ ex-text;" at 17.28pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Regular.ttf
 Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 17.28pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Regular.otf
- [4] [5]) [6] (Chinese.aux)
+ [6] [7]) [8] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1045,12 +1052,12 @@ Package rerunfilecheck Info: File `Chinese.out' has not changed.
 (rerunfilecheck)             Checksum: E4C55FCB8054ED540914349FD315C2C8;464.
  ) 
 Here is how much of TeX's memory you used:
- 15479 strings out of 409616
- 314258 string characters out of 5781299
+ 15498 strings out of 409616
+ 314686 string characters out of 5781299
  1970191 words of memory out of 5000000
- 37357 multiletter control sequences out of 15000+600000
+ 37373 multiletter control sequences out of 15000+600000
  559203 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,7n,110p,311b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (7 pages).
+Output written on Chinese.pdf (9 pages).
