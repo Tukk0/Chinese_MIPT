@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  25 OCT 2024 22:43
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  25 OCT 2024 23:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1045,10 +1045,10 @@ Package rerunfilecheck Info: File `Chinese.out' has not changed.
 (rerunfilecheck)             Checksum: E4C55FCB8054ED540914349FD315C2C8;464.
  ) 
 Here is how much of TeX's memory you used:
- 15503 strings out of 409616
- 316068 string characters out of 5781299
- 1969191 words of memory out of 5000000
- 37381 multiletter control sequences out of 15000+600000
+ 15479 strings out of 409616
+ 314258 string characters out of 5781299
+ 1970191 words of memory out of 5000000
+ 37357 multiletter control sequences out of 15000+600000
  559203 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,7n,110p,311b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
