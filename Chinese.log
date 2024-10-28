@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  25 OCT 2024 23:52
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  28 OCT 2024 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -720,29 +720,41 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@dima=\skip100
 \bigstrutjot=\dimen184
 )
-(D:\LaTex\tex/latex/titlesec\titleps.sty
+(D:\LaTex\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks26
+\thm@bodyfont=\toks27
+\thm@headfont=\toks28
+\thm@notefont=\toks29
+\thm@headpunct=\toks30
+\thm@preskip=\skip101
+\thm@postskip=\skip102
+\thm@headsep=\skip103
+\dth@everypar=\toks31
+)
+\c@newword=\count307
+\c@newgraphem=\count308
+ (D:\LaTex\tex/latex/titlesec\titleps.sty
 Package: titleps 2023/10/27 v2.16 Page styles
-))
-(D:\LaTex\tex/xelatex/xecjk\xeCJK.sty
+)) (D:\LaTex\tex/xelatex/xecjk\xeCJK.sty
 Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
  (D:\LaTex\tex/latex/ctex\ctexhook.sty
 Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
 Requested font "cmr10" at 0.00035pt
-)
-(D:\LaTex\tex/latex/l3packages/xtemplate\xtemplate.sty
+) (D:\LaTex\tex/latex/l3packages/xtemplate\xtemplate.sty
 Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen185
-\l__xtemplate_tmp_int=\count307
+\l__xtemplate_tmp_int=\count309
 \l__xtemplate_tmp_muskip=\muskip17
-\l__xtemplate_tmp_skip=\skip101
+\l__xtemplate_tmp_skip=\skip104
 )
-\l__xeCJK_tmp_int=\count308
+\l__xeCJK_tmp_int=\count310
 \l__xeCJK_tmp_box=\box61
 \l__xeCJK_tmp_dim=\dimen186
-\l__xeCJK_tmp_skip=\skip102
-\g__xeCJK_space_factor_int=\count309
-\l__xeCJK_begin_int=\count310
-\l__xeCJK_end_int=\count311
+\l__xeCJK_tmp_skip=\skip105
+\g__xeCJK_space_factor_int=\count311
+\l__xeCJK_begin_int=\count312
+\l__xeCJK_end_int=\count313
 \c__xeCJK_CJK_class_int=\XeTeXcharclass1
 \c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
 \c__xeCJK_FullRight_class_int=\XeTeXcharclass3
@@ -751,23 +763,23 @@ Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
 \c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
-\l__xeCJK_last_skip=\skip103
-\c__xeCJK_none_node=\count312
-\g__xeCJK_node_int=\count313
+\l__xeCJK_last_skip=\skip106
+\c__xeCJK_none_node=\count314
+\g__xeCJK_node_int=\count315
 \c__xeCJK_CJK_node_dim=\dimen187
 \c__xeCJK_CJK-space_node_dim=\dimen188
 \c__xeCJK_default_node_dim=\dimen189
 \c__xeCJK_CJK-widow_node_dim=\dimen190
 \c__xeCJK_normalspace_node_dim=\dimen191
-\c__xeCJK_default-space_node_skip=\skip104
-\l__xeCJK_ccglue_skip=\skip105
-\l__xeCJK_ecglue_skip=\skip106
-\l__xeCJK_punct_kern_skip=\skip107
+\c__xeCJK_default-space_node_skip=\skip107
+\l__xeCJK_ccglue_skip=\skip108
+\l__xeCJK_ecglue_skip=\skip109
+\l__xeCJK_punct_kern_skip=\skip110
 \l__xeCJK_indent_box=\box62
-\l__xeCJK_last_penalty_int=\count314
+\l__xeCJK_last_penalty_int=\count316
 \l__xeCJK_last_bound_dim=\dimen192
 \l__xeCJK_last_kern_dim=\dimen193
-\l__xeCJK_widow_penalty_int=\count315
+\l__xeCJK_widow_penalty_int=\count317
 
 Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 (xtemplate)             argument(s) on line 2396.
@@ -791,11 +803,11 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \l__xeCJK_margin_dim=\dimen266
 \l__xeCJK_minimum_bound_dim=\dimen267
 \l__xeCJK_kerning_margin_dim=\dimen268
-\g__xeCJK_family_int=\count316
-\l__xeCJK_fam_int=\count317
-\g__xeCJK_fam_allocation_int=\count318
-\l__xeCJK_verb_case_int=\count319
-\l__xeCJK_verb_exspace_skip=\skip108
+\g__xeCJK_family_int=\count318
+\l__xeCJK_fam_int=\count319
+\g__xeCJK_fam_allocation_int=\count320
+\l__xeCJK_verb_case_int=\count321
+\l__xeCJK_verb_exspace_skip=\skip111
 
 (D:\LaTex\tex/xelatex/xecjk\xeCJK.cfg
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
@@ -840,31 +852,31 @@ Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
 (Chinese.aux)
 \openout1 = `Chinese.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-1.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+.
  (D:\LaTex\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -906,65 +918,62 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 11.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 11.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 11.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 11.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 11.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 11.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 11.
-LaTeX Font Info:    Redeclaring math accent \check on input line 11.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 11.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 11.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 11.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 4.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 4.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 4.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 4.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 4.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 4.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 4.
+LaTeX Font Info:    Redeclaring math accent \check on input line 4.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 4.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 4.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 4.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 4.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 11.
+(Font)              `operators' in the math version `normal' on input line 4.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/DroidSerif(0)/m/n on input line 11.
+(Font)                  OT1/cmr/m/n --> TU/DroidSerif(0)/m/n on input line 4.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 11.
+(Font)              `operators' in the math version `bold' on input line 4.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/DroidSerif(0)/m/n on input line 11.
-
+(Font)                  OT1/cmr/bx/n --> TU/DroidSerif(0)/m/n on input line 4.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/DroidSerif(0)/m/n --> TU/DroidSerif(0)/m/n on input 
-line 11.
+line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/DroidSerif(0)/m/it on input line 11
-.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/DroidSerif(0)/b/n on input line 11.
+(Font)                  OT1/cmr/m/it --> TU/DroidSerif(0)/m/it on input line 4.
 
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/DroidSerif(0)/b/n on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/DroidSans(0)/m/n on input line 11.
+(Font)                  OT1/cmss/m/n --> TU/DroidSans(0)/m/n on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 11.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 4.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/DroidSerif(0)/m/n --> TU/DroidSerif(0)/b/n on input 
-line 11.
+line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/DroidSerif(0)/b/it on input line 1
-1.
+(Font)                  OT1/cmr/bx/it --> TU/DroidSerif(0)/b/it on input line 4
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/DroidSans(0)/b/n on input line 11.
-
+(Font)                  OT1/cmss/bx/n --> TU/DroidSans(0)/b/n on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 11.
-Package hyperref Info: Link coloring ON on input line 11.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 4.
+Package hyperref Info: Link coloring ON on input line 4.
 (Chinese.out) (Chinese.out)
 \@outlinefile=\write3
 \openout3 = `Chinese.out'.
@@ -987,12 +996,12 @@ File: images/logo_ltc.png Graphic file (type bmp)
 
 ])
 LaTeX Font Info:    Font shape `TU/DroidSerif(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 15.
+(Font)              scaled to size 14.4pt on input line 8.
 Requested font "[DroidSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=t
 ex-text;" at 14.4pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Regular.ttf
 LaTeX Font Info:    Font shape `TU/DroidSerif(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 15.
+(Font)              scaled to size 14.4pt on input line 8.
 Requested font "[DroidSerif-Bold.ttf]/OT:script=latn;language=dflt;mapping=tex-
 text;" at 14.4pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Bold.ttf
@@ -1040,21 +1049,40 @@ ex-text;" at 17.28pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Regular.ttf
 Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 17.28pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Regular.otf
- [4] [5]) [6] (Chinese.aux)
+ [4] [5]) (sections/Grammar.tex [6]
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 12.0pt
+ -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Regular.otf
+LaTeX Font Info:    Font shape `TU/DroidSerif(0)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 11.
+Requested font "[DroidSerif-Italic.ttf]/OT:script=latn;language=dflt;mapping=te
+x-text;" at 12.0pt
+ -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Italic.ttf
+LaTeX Font Info:    Font shape `TU/DroidSerif(0)/m/it' will be
+(Font)              scaled to size 17.28pt on input line 12.
+Requested font "[DroidSerif-Italic.ttf]/OT:script=latn;language=dflt;mapping=te
+x-text;" at 17.28pt
+ -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Italic.ttf
+Requested font "[FandolKai-Regular.otf]/OT:language=dflt;" at 17.28pt
+ -> D:/LaTex/fonts/opentype/public/fandol/FandolKai-Regular.otf
+) (sections/lessons/lesson13.tex [7]) [8] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `Chinese.out' has not changed.
-(rerunfilecheck)             Checksum: E4C55FCB8054ED540914349FD315C2C8;464.
+(rerunfilecheck)             Checksum: 623C0F943B5847876F74276B67ABCBEA;1193.
  ) 
 Here is how much of TeX's memory you used:
- 15498 strings out of 409616
- 314686 string characters out of 5781299
+ 15684 strings out of 409616
+ 319722 string characters out of 5781299
  1970191 words of memory out of 5000000
- 37373 multiletter control sequences out of 15000+600000
- 559203 words of font info for 66 fonts, out of 8000000 for 9000
+ 37545 multiletter control sequences out of 15000+600000
+ 559235 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,7n,110p,311b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,7n,110p,546b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (7 pages).
+Output written on Chinese.pdf (9 pages).

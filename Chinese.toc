@@ -2,3 +2,7 @@
 \contentsline {section}{\numberline {2}Основы}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Черты}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Графемы}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Грамматика}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Структура китайского предложения}{7}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Занятия}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Занятие 13. 2024.10.29}{8}{subsection.4.1}%
