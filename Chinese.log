@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  28 OCT 2024 20:29
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  29 OCT 2024 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1068,7 +1068,10 @@ x-text;" at 17.28pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Italic.ttf
 Requested font "[FandolKai-Regular.otf]/OT:language=dflt;" at 17.28pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolKai-Regular.otf
-) (sections/lessons/lesson13.tex [7]) [8] (Chinese.aux)
+) (sections/lessons/lesson13.tex [7]
+Requested font "[FandolKai-Regular.otf]/OT:language=dflt;" at 12.0pt
+ -> D:/LaTex/fonts/opentype/public/fandol/FandolKai-Regular.otf
+ [8]) [9] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1077,12 +1080,12 @@ Package rerunfilecheck Info: File `Chinese.out' has not changed.
 (rerunfilecheck)             Checksum: 623C0F943B5847876F74276B67ABCBEA;1193.
  ) 
 Here is how much of TeX's memory you used:
- 15684 strings out of 409616
- 319722 string characters out of 5781299
- 1970191 words of memory out of 5000000
- 37545 multiletter control sequences out of 15000+600000
- 559235 words of font info for 70 fonts, out of 8000000 for 9000
+ 15735 strings out of 409616
+ 322347 string characters out of 5781299
+ 1971191 words of memory out of 5000000
+ 37595 multiletter control sequences out of 15000+600000
+ 559243 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,7n,110p,546b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (9 pages).
+Output written on Chinese.pdf (10 pages).
