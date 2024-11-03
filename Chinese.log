@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  30 OCT 2024 18:29
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  3 NOV 2024 22:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1077,21 +1077,22 @@ text;" at 17.28pt
  [8]
 Requested font "[FandolSong-Bold.otf]/OT:language=dflt;" at 17.28pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Bold.otf
-) [9] (Chinese.aux)
+) (sections/lessons/lesson14.tex)
+[9] [10] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `Chinese.out' has not changed.
-(rerunfilecheck)             Checksum: 623C0F943B5847876F74276B67ABCBEA;1193.
+(rerunfilecheck)             Checksum: D3976DE3B8ADE35AB8C8DF0285EC7E1E;1387.
  ) 
 Here is how much of TeX's memory you used:
- 15725 strings out of 409616
- 321595 string characters out of 5781299
+ 15733 strings out of 409616
+ 321848 string characters out of 5781299
  1971191 words of memory out of 5000000
- 37584 multiletter control sequences out of 15000+600000
+ 37589 multiletter control sequences out of 15000+600000
  559251 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,7n,110p,546b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,7n,110p,546b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (10 pages).
+Output written on Chinese.pdf (11 pages).
