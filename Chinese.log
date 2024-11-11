@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  3 NOV 2024 22:58
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  11 NOV 2024 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1020,6 +1020,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
+Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 10.0pt
+ -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Regular.otf
 )
 \tf@toc=\write4
 \openout4 = `Chinese.toc'.
@@ -1050,49 +1052,108 @@ ex-text;" at 17.28pt
 Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 17.28pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Regular.otf
  [4] [5]) (sections/Grammar.tex [6]
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 12.0pt
- -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Regular.otf
 LaTeX Font Info:    Font shape `TU/DroidSerif(0)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 11.
-Requested font "[DroidSerif-Italic.ttf]/OT:script=latn;language=dflt;mapping=te
-x-text;" at 12.0pt
- -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Italic.ttf
-LaTeX Font Info:    Font shape `TU/DroidSerif(0)/m/it' will be
-(Font)              scaled to size 17.28pt on input line 12.
+(Font)              scaled to size 17.28pt on input line 10.
 Requested font "[DroidSerif-Italic.ttf]/OT:script=latn;language=dflt;mapping=te
 x-text;" at 17.28pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Italic.ttf
 Requested font "[FandolKai-Regular.otf]/OT:language=dflt;" at 17.28pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolKai-Regular.otf
-) (sections/lessons/lesson13.tex [7]
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 36--40
+
+ []
+
+Requested font "[FandolSong-Bold.otf]/OT:language=dflt;" at 12.0pt
+ -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Bold.otf
+
+Overfull \hbox (31.83122pt too wide) in paragraph at lines 42--46
+\TU/DroidSerif(0)/m/n/10 Служебная частица \TU/FandolSong-Regular(0)/m/n/10 的 \
+TU/DroidSerif(0)/m/n/10 используется для указания принадлежности, а также форми
+рования определений,
+ []
+
+
+Overfull \hbox (36.68703pt too wide) in paragraph at lines 48--49
+[]\TU/DroidSerif(0)/m/n/10 определяемым является какой-либо человек, чаще родст
+венник, а в определении стоит местоимение 
+ []
+
+
+Overfull \hbox (8.07547pt too wide) in paragraph at lines 50--52
+\TU/DroidSerif(0)/m/n/10 государственная принадлежность, функция, профессия, яз
+ык и т.п. (Перед таким определением
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--62
+
+ []
+
+) (sections/lessons/lesson13.tex [8]
 LaTeX Font Info:    Font shape `TU/DroidSerif(0)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 6.
 Requested font "[DroidSerif-Bold.ttf]/OT:script=latn;language=dflt;mapping=tex-
 text;" at 17.28pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Bold.ttf
- [8]
+ [9]
 Requested font "[FandolSong-Bold.otf]/OT:language=dflt;" at 17.28pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Bold.otf
-) (sections/lessons/lesson14.tex)
-[9] [10] (Chinese.aux)
+) (sections/lessons/lesson14.tex
+[10] [11] [12])
+Underfull \hbox (badness 10000) in paragraph at lines 54--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--20
+
+ []
+
+[13] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `Chinese.out' has not changed.
-(rerunfilecheck)             Checksum: D3976DE3B8ADE35AB8C8DF0285EC7E1E;1387.
+(rerunfilecheck)             Checksum: ADE35B25C615235DDE6190872DA1A5C9;1517.
  ) 
 Here is how much of TeX's memory you used:
- 15733 strings out of 409616
- 321848 string characters out of 5781299
+ 15770 strings out of 409616
+ 324600 string characters out of 5781299
  1971191 words of memory out of 5000000
- 37589 multiletter control sequences out of 15000+600000
+ 37626 multiletter control sequences out of 15000+600000
  559251 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,7n,110p,546b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,7n,110p,546b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (11 pages).
+Output written on Chinese.pdf (14 pages).
