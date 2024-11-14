@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  11 NOV 2024 17:38
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  13 NOV 2024 22:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1128,32 +1128,69 @@ text;" at 17.28pt
  [9]
 Requested font "[FandolSong-Bold.otf]/OT:language=dflt;" at 17.28pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Bold.otf
-) (sections/lessons/lesson14.tex
-[10] [11] [12])
-Underfull \hbox (badness 10000) in paragraph at lines 54--20
+) (sections/lessons/lesson16.tex
+[10] [11]) (sections/lessons/lesson17.tex
+Underfull \hbox (badness 10000) in paragraph at lines 35--2
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--20
+Underfull \hbox (badness 10000) in paragraph at lines 35--2
 
  []
 
-[13] (Chinese.aux)
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Overfull \hbox (33.6067pt too wide) in paragraph at lines 29--30
+[]\TU/FandolSong-Regular(0)/m/it/17.28 汉 语 \TU/DroidSerif(0)/m/it/17.28 - hànyǔ
+ - китайский язык (при изучении и при разговоре) 
+ []
+
+[13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+
+ []
+
+[15]
+Overfull \hbox (22.92314pt too wide) in paragraph at lines 84--85
+[]\TU/FandolSong-Regular(0)/m/n/17.28 张 诚 \TU/DroidSerif(0)/m/n/17.28 - zhāng c
+héng - имя собственное, где первый иероглиф
+ []
+
+) [16] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `Chinese.out' has not changed.
-(rerunfilecheck)             Checksum: ADE35B25C615235DDE6190872DA1A5C9;1517.
+(rerunfilecheck)             Checksum: CDBA98EB803DA096E527E50091900F27;1712.
  ) 
 Here is how much of TeX's memory you used:
- 15770 strings out of 409616
- 324600 string characters out of 5781299
+ 15802 strings out of 409616
+ 326681 string characters out of 5781299
  1971191 words of memory out of 5000000
- 37626 multiletter control sequences out of 15000+600000
+ 37655 multiletter control sequences out of 15000+600000
  559251 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,7n,110p,546b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,7n,110p,546b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (14 pages).
+Output written on Chinese.pdf (17 pages).
