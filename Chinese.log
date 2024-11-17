@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  13 NOV 2024 22:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  17 NOV 2024 23:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1096,40 +1096,72 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--40
 Requested font "[FandolSong-Bold.otf]/OT:language=dflt;" at 12.0pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Bold.otf
 
-Overfull \hbox (31.83122pt too wide) in paragraph at lines 42--46
+Overfull \hbox (31.83122pt too wide) in paragraph at lines 44--48
 \TU/DroidSerif(0)/m/n/10 Служебная частица \TU/FandolSong-Regular(0)/m/n/10 的 \
 TU/DroidSerif(0)/m/n/10 используется для указания принадлежности, а также форми
 рования определений,
  []
 
 
-Overfull \hbox (36.68703pt too wide) in paragraph at lines 48--49
+Overfull \hbox (36.68703pt too wide) in paragraph at lines 50--51
 []\TU/DroidSerif(0)/m/n/10 определяемым является какой-либо человек, чаще родст
 венник, а в определении стоит местоимение 
  []
 
 
-Overfull \hbox (8.07547pt too wide) in paragraph at lines 50--52
+Overfull \hbox (8.07547pt too wide) in paragraph at lines 52--54
 \TU/DroidSerif(0)/m/n/10 государственная принадлежность, функция, профессия, яз
 ык и т.п. (Перед таким определением
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--62
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
 
  []
 
-) (sections/lessons/lesson13.tex [8]
+[8]
+Overfull \hbox (4.22891pt too wide) in paragraph at lines 76--81
+\TU/FandolSong-Regular(0)/m/it/17.28 我 姐 姐 有 猫，|  你 弟 弟 呢？| \TU/DroidSerif(0)/m
+/it/17.28 - У моей старшей сестры есть кошка,
+ []
+
+
+Overfull \hbox (13.55101pt too wide) in paragraph at lines 86--91
+\TU/FandolSong-Regular(0)/m/it/17.28 他 们 爱 看 书 吗？| \TU/DroidSerif(0)/m/it/17.28
+ - \TU/FandolSong-Regular(0)/m/it/17.28 他 们 爱 不 爱 看 书？| \TU/DroidSerif(0)/m/it/
+17.28 (Они любят читать книги?) 
+ []
+
+[9]
+Overfull \hbox (12.34813pt too wide) in paragraph at lines 117--118
+\TU/DroidSerif(0)/m/n/10 Суффикс \TU/FandolSong-Regular(0)/m/n/10 们 \TU/DroidSe
+rif(0)/m/n/10 используется для обозначения множественного числа у одушевленных 
+существительных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--122
+
+ []
+
+
+Overfull \hbox (12.3541pt too wide) in paragraph at lines 123--127
+\TU/DroidSerif(0)/m/n/10 используются существительные без суффикса \TU/FandolSo
+ng-Regular(0)/m/n/10 们\TU/DroidSerif(0)/m/n/10 . При наличии числительных или д
+ругих указателей
+ []
+
+) (sections/lessons/lesson13.tex [10]
 LaTeX Font Info:    Font shape `TU/DroidSerif(0)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 6.
 Requested font "[DroidSerif-Bold.ttf]/OT:script=latn;language=dflt;mapping=tex-
 text;" at 17.28pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Bold.ttf
- [9]
+ [11]
 Requested font "[FandolSong-Bold.otf]/OT:language=dflt;" at 17.28pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Bold.otf
 ) (sections/lessons/lesson16.tex
-[10] [11]) (sections/lessons/lesson17.tex
+[12] [13]) (sections/lessons/lesson17.tex
 Underfull \hbox (badness 10000) in paragraph at lines 35--2
 
  []
@@ -1139,7 +1171,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--2
 
  []
 
-[12]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 6--9
 
  []
@@ -1160,7 +1192,7 @@ Overfull \hbox (33.6067pt too wide) in paragraph at lines 29--30
  - китайский язык (при изучении и при разговоре) 
  []
 
-[13] [14]
+[15] [16]
 Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
@@ -1170,27 +1202,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--78
 
  []
 
-[15]
+[17]
 Overfull \hbox (22.92314pt too wide) in paragraph at lines 84--85
 []\TU/FandolSong-Regular(0)/m/n/17.28 张 诚 \TU/DroidSerif(0)/m/n/17.28 - zhāng c
 héng - имя собственное, где первый иероглиф
  []
 
-) [16] (Chinese.aux)
+) (sections/lessons/lesson18.tex [18]
+Overfull \hbox (28.98688pt too wide) in paragraph at lines 9--11
+\TU/DroidSerif(0)/m/n/17.28 Если 3-4 слоги сочетаются с инициалью, ”e” редуциру
+ется. 
+ []
+
+[19]) [20] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `Chinese.out' has not changed.
-(rerunfilecheck)             Checksum: CDBA98EB803DA096E527E50091900F27;1712.
+(rerunfilecheck)             Checksum: 944CB3EA82EE54256DF5DE10F21B15B2;2680.
  ) 
 Here is how much of TeX's memory you used:
- 15802 strings out of 409616
- 326681 string characters out of 5781299
+ 15846 strings out of 409616
+ 329598 string characters out of 5781299
  1971191 words of memory out of 5000000
- 37655 multiletter control sequences out of 15000+600000
+ 37696 multiletter control sequences out of 15000+600000
  559251 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,7n,110p,546b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (17 pages).
+Output written on Chinese.pdf (21 pages).
