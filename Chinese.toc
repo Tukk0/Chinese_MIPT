@@ -15,3 +15,4 @@
 \contentsline {subsection}{\numberline {4.3}Занятие 17. 2024.11.12}{15}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Занятие 18. 2024.11.14}{19}{subsection.4.4}%
 \contentsline {subsection}{\numberline {4.5}Занятие 19. 2024.11.19}{21}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Занятие 20. 2024.11.21}{24}{subsection.4.6}%

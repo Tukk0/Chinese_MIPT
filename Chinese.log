@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  19 NOV 2024 18:29
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  21 NOV 2024 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1220,31 +1220,27 @@ Overfull \hbox (1.97482pt too wide) in paragraph at lines 4--7
 ar(0)/m/n/17.28 一 \TU/DroidSerif(0)/m/n/17.28 произносится вторым
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--16
-
+[21] [22]) (sections/lessons/lesson20.tex [23]
+Overfull \hbox (30.61607pt too wide) in paragraph at lines 31--32
+[]\TU/FandolSong-Regular(0)/m/n/17.28 难 \TU/DroidSerif(0)/m/n/17.28 (nán) + ver
+b - трудный с точки зрения ... (трансформация
  []
 
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 40--45
-
- []
-
-[22]) [23] (Chinese.aux)
+[24]) [25] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `Chinese.out' has not changed.
-(rerunfilecheck)             Checksum: 9BB8EFB9790E31A0B294A0EADC497AAA;2875.
+(rerunfilecheck)             Checksum: F14C4A8F8CA4FDE650344F38FD4E6382;3070.
  ) 
 Here is how much of TeX's memory you used:
- 15854 strings out of 409616
- 329851 string characters out of 5781299
- 1976191 words of memory out of 5000000
- 37701 multiletter control sequences out of 15000+600000
+ 15862 strings out of 409616
+ 330104 string characters out of 5781299
+ 1977191 words of memory out of 5000000
+ 37706 multiletter control sequences out of 15000+600000
  559251 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,7n,110p,546b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (24 pages).
+Output written on Chinese.pdf (26 pages).
