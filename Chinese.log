@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  26 NOV 2024 18:25
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  26 NOV 2024 18:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1160,11 +1160,22 @@ Overfull \hbox (3.31384pt too wide) in paragraph at lines 133--134
 уществительного 
  []
 
-Requested font "[FandolKai-Regular.otf]/OT:language=dflt;" at 10.0pt
- -> D:/LaTex/fonts/opentype/public/fandol/FandolKai-Regular.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--143
+Overfull \hbox (5.5579pt too wide) in paragraph at lines 138--143
+\TU/FandolSong-Regular(0)/m/it/17.28 爸 爸 给 我 的 弟 弟 写 信。| \TU/DroidSerif(0)/m/it
+/17.28 - Папа пишет письмо моему младшему
+ []
 
+
+Overfull \hbox (34.6926pt too wide) in paragraph at lines 138--143
+\TU/FandolSong-Regular(0)/m/it/17.28 妈 妈 给 我 老 师 邮 件。| \TU/DroidSerif(0)/m/it/1
+7.28 - Мама отправляет письмо моему учителю. 
+ []
+
+
+Overfull \hbox (5.25981pt too wide) in paragraph at lines 138--143
+\TU/FandolSong-Regular(0)/m/it/17.28 妹 妹 给 我 打 电 话。| \TU/DroidSerif(0)/m/it/17.
+28 - Младшая сестра звонит мне по телефону. 
  []
 
 [10]) (sections/lessons/lesson13.tex [11]
@@ -1274,11 +1285,11 @@ Package rerunfilecheck Info: File `Chinese.out' has not changed.
 (rerunfilecheck)             Checksum: 76BCF2D3D6D61B587E22D1F6B8BA20DF;4021.
  ) 
 Here is how much of TeX's memory you used:
- 15948 strings out of 409616
- 335951 string characters out of 5781299
+ 15933 strings out of 409616
+ 334959 string characters out of 5781299
  1976191 words of memory out of 5000000
- 37787 multiletter control sequences out of 15000+600000
- 559267 words of font info for 74 fonts, out of 8000000 for 9000
+ 37773 multiletter control sequences out of 15000+600000
+ 559259 words of font info for 73 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,7n,110p,546b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
