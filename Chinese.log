@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  4 FEB 2025 11:09
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  4 FEB 2025 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1036,7 +1036,36 @@ LaTeX Font Info:    Font shape `TU/DroidSerif(0)/b/n' will be
 Requested font "[DroidSerif-Bold.ttf]/OT:script=latn;language=dflt;mapping=tex-
 text;" at 12.0pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Bold.ttf
-) [3] (Chinese.aux)
+LaTeX Font Info:    Font shape `TU/DroidSerif(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 4.
+Requested font "[DroidSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=t
+ex-text;" at 17.28pt
+ -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Regular.ttf
+LaTeX Font Info:    Font shape `TU/DroidSerif(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 5.
+Requested font "[DroidSerif-Bold.ttf]/OT:script=latn;language=dflt;mapping=tex-
+text;" at 17.28pt
+ -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Bold.ttf
+Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 17.28pt
+ -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Regular.otf
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--20
+
+ []
+
+LaTeX Font Info:    Font shape `TU/DroidSerif(0)/m/it' will be
+(Font)              scaled to size 17.28pt on input line 20.
+Requested font "[DroidSerif-Italic.ttf]/OT:script=latn;language=dflt;mapping=te
+x-text;" at 17.28pt
+ -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Italic.ttf
+Requested font "[FandolKai-Regular.otf]/OT:language=dflt;" at 17.28pt
+ -> D:/LaTex/fonts/opentype/public/fandol/FandolKai-Regular.otf
+[3])
+Underfull \hbox (badness 10000) in paragraph at lines 48--15
+
+ []
+
+[4] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1045,12 +1074,12 @@ Package rerunfilecheck Info: File `Chinese.out' has not changed.
 (rerunfilecheck)             Checksum: 6A32D0FB4F8E0421CC3DA3E06D5556EB;441.
  ) 
 Here is how much of TeX's memory you used:
- 15569 strings out of 409616
- 314142 string characters out of 5781299
- 1921191 words of memory out of 5000000
- 37449 multiletter control sequences out of 15000+600000
- 559187 words of font info for 64 fonts, out of 8000000 for 9000
+ 15637 strings out of 409616
+ 318527 string characters out of 5781299
+ 1926191 words of memory out of 5000000
+ 37512 multiletter control sequences out of 15000+600000
+ 559227 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,7n,110p,546b,402s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,7n,110p,546b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (4 pages).
+Output written on Chinese.pdf (5 pages).
