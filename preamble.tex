@@ -1,0 +1,73 @@
+\documentclass{article}
+
+% Поиск в документе
+\usepackage{cmap}
+
+\usepackage[dvips,xetex]{graphicx}
+\usepackage{ifpdf,mla}
+
+%%% Оформление страницы
+%\usepackage{extsizes}     % Возможность сделать 14-й шрифт
+\usepackage{geometry}     % Простой способ задавать поля
+\usepackage{setspace}     % Интерлиньяж
+\usepackage{enumitem}     % Настройка окружений itemize и enumerate
+
+%%% Русский язык
+\usepackage[default]{droidserif}
+\usepackage[defaultsans]{droidsans}
+
+%%% Содержаниие
+\usepackage{tocloft}
+\tocloftpagestyle{main}
+
+%%% Шаблонная информация для титульного листа
+\newcommand{\CourseName}{Китайский язык}
+\newcommand{\FullCourseNameFirstPart}{КИТАЙСКИЙ ЯЗЫК, A1}
+\newcommand{\SemesterNumber}{IV}
+\newcommand{\LecturerInitials}{Селькова Анна Владимировна}
+\newcommand{\CourseDate}{Весна 2025}
+\newcommand{\VKLink}{https://vk.com/tikl7}
+
+%%% Гиперссылки
+\usepackage{hyperref}
+\usepackage[usenames,dvipsnames,svgnames,table,rgb]{xcolor}
+\hypersetup{
+	unicode=true,            % русские буквы в раздела PDF
+	colorlinks=true,       	 % Цветные ссылки вместо ссылок в рамках
+	linkcolor=black!15!blue, % Внутренние ссылки
+	citecolor=green,         % Ссылки на библиографию
+	filecolor=magenta,       % Ссылки на файлы
+	urlcolor=NavyBlue,       % Ссылки на URL
+}
+
+%%% Работа с таблицами
+\usepackage{array,tabularx,tabulary,booktabs} % Дополнительная работа с таблицами
+\usepackage{longtable}                        % Длинные таблицы
+\usepackage{multirow}                         % Слияние строк в таблице
+
+\geometry{top=50mm}    % Поля сверху страницы
+\geometry{bottom=10mm} % Поля снизу страницы
+\geometry{left=20mm}   % Поля слева страницы
+\geometry{right=20mm}  % Поля справа страницы
+
+\linespread{1.4} % Коэффициент межстрочного интервала
+
+
+\usepackage{amsthm}
+\theoremstyle{plain}
+\newtheorem*{example}{Пример}
+\newtheorem{newword}{Новое слово}[subsection]
+\newtheorem{newgraphem}{Новая графема}[subsection]
+\newtheorem*{newwords}{Новые слова}
+\newtheorem*{newgraphems}{Новые графемы}
+\newtheorem*{comments}{Комментарии}
+
+%%% Колонтитулы
+\usepackage{titleps}
+\newpagestyle{main}{
+	\setheadrule{0.4pt}
+	\sethead{\CourseName}{}{\hyperlink{intro}{\;Назад к содержанию}}
+	\setfootrule{0.4pt}                       
+	\setfoot{МФТИ, \CourseDate}{}{\thepage} 
+}
+\pagestyle{main}  
