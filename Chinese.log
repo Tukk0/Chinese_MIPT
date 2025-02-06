@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  4 FEB 2025 19:33
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  6 FEB 2025 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1020,6 +1020,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
+Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 10.0pt
+ -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Regular.otf
 )
 \tf@toc=\write4
 \openout4 = `Chinese.toc'.
@@ -1036,6 +1038,8 @@ LaTeX Font Info:    Font shape `TU/DroidSerif(0)/b/n' will be
 Requested font "[DroidSerif-Bold.ttf]/OT:script=latn;language=dflt;mapping=tex-
 text;" at 12.0pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Bold.ttf
+Requested font "[FandolSong-Bold.otf]/OT:language=dflt;" at 12.0pt
+ -> D:/LaTex/fonts/opentype/public/fandol/FandolSong-Bold.otf
 LaTeX Font Info:    Font shape `TU/DroidSerif(0)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 4.
 Requested font "[DroidSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=t
@@ -1060,26 +1064,42 @@ x-text;" at 17.28pt
  -> D:/LaTex/fonts/truetype/ascender/droid/droidserif/DroidSerif-Italic.ttf
 Requested font "[FandolKai-Regular.otf]/OT:language=dflt;" at 17.28pt
  -> D:/LaTex/fonts/opentype/public/fandol/FandolKai-Regular.otf
-[3])
-Underfull \hbox (badness 10000) in paragraph at lines 48--15
+[3]) (lessons/lesson2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 48--1
 
  []
 
-[4] (Chinese.aux)
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+
+ []
+
+[5])
+Overfull \hbox (18.11967pt too wide) in paragraph at lines 49--16
+\TU/FandolSong-Regular(0)/m/n/17.28 了 \TU/DroidSerif(0)/m/n/17.28 в конце предл
+ожения - показатель перемены, изменения
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--16
+
+ []
+
+[6] [7] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `Chinese.out' has not changed.
-(rerunfilecheck)             Checksum: 6A32D0FB4F8E0421CC3DA3E06D5556EB;441.
+(rerunfilecheck)             Checksum: 7C4CE5D9DA6013B0270B45C290CF0FEF;728.
  ) 
 Here is how much of TeX's memory you used:
- 15637 strings out of 409616
- 318527 string characters out of 5781299
- 1926191 words of memory out of 5000000
- 37512 multiletter control sequences out of 15000+600000
- 559227 words of font info for 69 fonts, out of 8000000 for 9000
+ 15651 strings out of 409616
+ 318920 string characters out of 5781299
+ 1928191 words of memory out of 5000000
+ 37521 multiletter control sequences out of 15000+600000
+ 559243 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,7n,110p,546b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (5 pages).
+Output written on Chinese.pdf (8 pages).
