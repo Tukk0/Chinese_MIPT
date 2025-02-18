@@ -1,4 +1,0 @@
-\contentsline {section}{\numberline {1}Полезные ссылки}{2}{section.1}%
-\contentsline {section}{\numberline {2}Занятия}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Занятие 1. 2025 年 2 月 4 号}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Занятие 2. 2025 年 2 月 6 号}{5}{subsection.2.2}%
