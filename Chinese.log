@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  18 FEB 2025 18:24
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.10)  20 FEB 2025 17:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1123,26 +1123,36 @@ Overfull \hbox (41.25247pt too wide) in paragraph at lines 25--29
 ящим
  []
 
-[11])
-Underfull \hbox (badness 10000) in paragraph at lines 40--18
+[11]) (lessons/lesson6.tex
+Underfull \hbox (badness 10000) in paragraph at lines 40--1
 
  []
 
-[12] (Chinese.aux)
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+) [13] (Chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `Chinese.out' has not changed.
-(rerunfilecheck)             Checksum: FC8720E4AC604797A1C2BEFB470B2BA7;1214.
+(rerunfilecheck)             Checksum: 91C162DFDA0234B7E42B4EBDBCEF5E92;1457.
  ) 
 Here is how much of TeX's memory you used:
- 15684 strings out of 409616
- 320380 string characters out of 5781299
+ 15704 strings out of 409616
+ 320988 string characters out of 5781299
  1928191 words of memory out of 5000000
- 37547 multiletter control sequences out of 15000+600000
+ 37564 multiletter control sequences out of 15000+600000
  559251 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,7n,110p,546b,682s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Chinese.pdf (13 pages).
+Output written on Chinese.pdf (14 pages).
