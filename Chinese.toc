@@ -5,3 +5,5 @@
 \contentsline {subsection}{\numberline {2.3}Занятие 4. 2025 年 02 月 13 号}{8}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Занятие 5. 2025 年 02 月 18 号}{11}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5}Занятие 6. 2025 年 02 月 20 号}{13}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Занятие 6. 2025 年 02 月 20 号}{14}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Занятие 7. 2025 年 02 月 25 号}{15}{subsection.2.7}%
